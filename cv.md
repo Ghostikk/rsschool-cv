@@ -79,12 +79,12 @@ Design of new measuring instruments, automation and robotization of technologica
 
 ```
 const checkNumber = (selector) => {
-const numInputs = document.querySelectorAll(selector);
-numInputs.forEach(item => {
-item.addEventListener('input', () => {
-item.value = item.value.replace(/\D/, '');
-});
-});
+    const numInputs = document.querySelectorAll(selector);
+        numInputs.forEach(item => {
+            item.addEventListener('input', () => {
+                item.value = item.value.replace(/\D/, '');
+            });
+        });
 };
 ```
 
