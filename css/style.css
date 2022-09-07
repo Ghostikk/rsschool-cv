@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.test {
+  font-size: 20rem;
+  color: rgb(255, 115, 0);
+  text-align: center;
+}
