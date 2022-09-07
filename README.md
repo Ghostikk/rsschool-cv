@@ -1,1 +1,1 @@
-https://Ghostikk.github.io/rsschool-cv/cv
+https://Ghostikk.github.io/rsschool-cv/
